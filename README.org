@@ -1,4 +1,2 @@
-#+title: Readme
-
 * Public Domain
-Works in this repository are dedicated to the Public Domain.
+Works in this repository are dedicated to the Public Domain.You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
