@@ -1,9 +1,8 @@
 #+title: Aliens
 #+date: <2022-10-18 Thu>
 #+updated: <2022-10-20 Thu>
-* Aliens
 
-** Form
+* Form
 
 Aliens are not the usual aliens you find in sci-fi movies
 They are just some plants that live on only some kinds of planets.
