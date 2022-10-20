@@ -13,8 +13,12 @@ Multiple types of space stations:
 * Citizen stations
 These stations have artificial gravity to make the daily citizen life more enjoyable and less of a hassle.
 
+** Exoplanets Simulations
+People like to be entertained and so citizen satations have different ways to entertain its citizens. One way is to simulate extreme exoplanets.
+There is a dedicated area in the arcade section for these kinds of simulations. The sims are quite advanced so they require advanced and expensive technology.
+
 * Emergency Containers
-They are small space stations in the form of a cilindar. They are only used for emergencies.
+They are small space stations in the form of a cylinder. They are only used for emergencies.
 They have a few floors each doing its thing.
 It has two entrances/exits, one at the top and one at the bottom.
 
