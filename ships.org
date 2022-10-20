@@ -1,0 +1,34 @@
+#+title: Ships
+#+date: <2022-10-19 Wed>
+#+language: en
+#+updated: <2022-10-20 Wed>
+
+*Note*: when I say /ground/ I refer to planets or surfaces with high gravitational pull
+
+The ships are realistic.
+Ships themselves can not travel between systems, they need to use Laser Gates to travel between systems.
+Debating whether there should be alien ships or not (this implies that there are other alien types other than the plant ones).
+
+* Physics
+Travel in space differs from travel on ground as in space the gravitational pull is weak. That being said in space a ship can travel at a constant speed with only a push by a force so this can save fuel.
+
+* Ship types
+- *Comercial* - they should be big because they transport goods and products;
+- *Personal* - medium to small, a citizen shoud not have a reason to pilot a big ship;
+- *Racing* - these could also be put into personal, but there are official racing tracks and tournaments happen quite frequiently. They are small for speed and maneuverability;
+- *Touristic* - these can be medium to big to transport people across the system. They are often times just like a mini hotel;
+- *Military* - These are not flying on citizen areas unless a war is happening. They often sit in garages because not many wars have happened recently (I will change this war thing later);
+- *Police* - police ships are scanning the habitated zones frequently and are highly equiptted with powerful gear. There are a few police departments and some of them are weaker due to less money;
+
+** Mini Homes
+Like todays cars there are some ships that can be purchased to be used as a home away from home.
+These are usually much more expensive and can house at least 3 members.
+  
+* Shape
+For ground/ground-space ships I like the way (present) current ships look, but a little more futuristic.
+A good reference for what I'm looking is this: [[https://www.artstation.com/artwork/ZGm5dx][art_station_link]] or [[~/media/pics/joan_pique_llorens_shuttle_2022-10-19.jpg][local_img_link]]
+Space ships could have a bit of a more exotic shape, we're doing sci-fi after all.
+In space they don't have to be a specific shape, tho they should make some sense.
+If ships will travel both in space and ground then they have to be aerodynamic.
+
+[[./space_stations.org]]

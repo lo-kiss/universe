@@ -1,0 +1,4 @@
+#+title: Readme
+
+* Public Domain
+Works in this repository are dedicated to the Public Domain.

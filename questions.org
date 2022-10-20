@@ -1,0 +1,4 @@
+#+title: Questions
+
+
+* Should travel between systems be hard or easy?
