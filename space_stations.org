@@ -20,6 +20,6 @@ It has two entrances/exits, one at the top and one at the bottom.
 
 * Parking
 /(requires additional thinking)/
-Since space is so vast parking is done by literally parking your ship outisde of a space station. Due to laws space station will always have an active police squad scanning the area so you can rest assured that your ship is in a safe place
+Since space is so vast parking is done by literally parking your ship outside of a space station. Due to laws space stations will always have an active police squad scanning the area so you can rest assured that your ship is in a safe place.
 Of course to protect the space station from potential hacking attacks, you have to be granted permission to park with your pilot license and the current ship license.
 If a ship is to be detected without a license the ship will be deactivated immedietly (using some kind of EMP maybe still gotta think) and checked.
