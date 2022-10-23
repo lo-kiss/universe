@@ -1,0 +1,24 @@
+#+title: Temp Concepts
+#+date: <2022-10-20 Fri>
+#+language: en
+
+* Candidates
+Candidates for primary location of stories:
+- [[https://en.wikipedia.org/wiki/Rho_Ophiuchi][Rho Ophiuchi]]
+
+
+* Star system: Nova (contains a black hole)
+Candidate for starting point of creating the other solar system around it
+
+* Place
+The place where actions are taking place could be a bubble discovored by astronomers long ago, choosen for its recources and diversity
+
+* Dark river
+A dark river is the band caused by interstellar clouds and cosmic dust. Imagine the cloud band when you look at a galaxy. Could be cool to make something with this.
+
+* A terraformed planet with toxic patches from failed experiments
+
+~* Interstellar~
+~An interstellar ship is used to travel to a new star system that does not have a Laser Gate. Only one such ship exists and it's owned by the biggest gouvernment power.~
+
+~It's used to travel to star systems that are good candidates for recources.~

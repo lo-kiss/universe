@@ -1,7 +1,6 @@
 #+title: Space_stations
 #+date: <2022-10-19 Wed>
 #+language: en
-#+updated: <2022-10-19 Wed>
 
 (requires thinking)
 Multiple types of space stations:
@@ -17,10 +16,14 @@ These stations have artificial gravity to make the daily citizen life more enjoy
 People like to be entertained and so citizen satations have different ways to entertain its citizens. One way is to simulate extreme exoplanets.
 There is a dedicated area in the arcade section for these kinds of simulations. The sims are quite advanced so they require advanced and expensive technology.
 
+* Research stations
+These aren't really made for comfort and more for scientifical research and effectiveness.
+
 * Emergency Containers
-They are small space stations in the form of a cylinder. They are only used for emergencies.
-They have a few floors each doing its thing.
-It has two entrances/exits, one at the top and one at the bottom.
+They are small space stations in the form of a cylinder and are only used for emergencies.
+It has two entrances/exits, one at the top and one at the bottom with a few floors each doing its thing.
+
+To save on costs and energy, the containers do not have artificial gravity (they're not designed to have artificial gravity anyway).
 
 * Parking
 /(requires additional thinking)/

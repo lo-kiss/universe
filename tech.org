@@ -1,0 +1,13 @@
+#+title: Tech
+#+date: <2022-10-21 Fri>
+
+* AR Glasses
+Main tech that almost everyone uses these days are the AR glasses.
+They are glasses that can diplay virtual interfaces in the real world to better assist you in your activity or show relevant stats.
+AR Glasses have extensive support from other manufacturers making them good for jobs, even for a normal day out.
+
+*For ships* the AR glasses are pretty much mandatory because ships don't offer screens on the main board.
+
+** Out of the box features:
+- Display a clock in the corners;
+-

@@ -1,11 +1,9 @@
 #+title: Ships
 #+date: <2022-10-19 Wed>
 #+language: en
-#+updated: <2022-10-20 Wed>
 
-*Note*: when I say /ground/ I refer to planets or surfaces with high gravitational pull
+*Note*: when I say /ground/ I refer to planets.
 
-The ships are realistic.
 Ships themselves can not travel between systems, they need to use Laser Gates to travel between systems.
 Debating whether there should be alien ships or not (this implies that there are other alien types other than the plant ones).
 
@@ -13,17 +11,30 @@ Debating whether there should be alien ships or not (this implies that there are
 Travel in space differs from travel on ground as in space the gravitational pull is weak. That being said in space a ship can travel at a constant speed with only a push by a force so this can save fuel.
 
 * Ship types
-- *Comercial* - they should be big because they transport goods and products;
-- *Personal* - medium to small, a citizen shoud not have a reason to pilot a big ship;
-- *Racing* - these could also be put into personal, but there are official racing tracks and tournaments happen quite frequiently. They are small for speed and maneuverability;
-- *Touristic* - these can be medium to big to transport people across the system. They are often times just like a mini hotel;
-- *Military* - These are not flying on citizen areas unless a war is happening. They often sit in garages because not many wars have happened recently (I will change this war thing later);
-- *Police* - police ships are scanning the habitated zones frequently and are highly equiptted with powerful gear. There are a few police departments and some of them are weaker due to less money;
+** Comercial
+They are big ships for transporting goods and materials.
+Independant commercial pilots are the most prodominant in this field.
 
-** Mini Homes
-Like todays cars there are some ships that can be purchased to be used as a home away from home.
-These are usually much more expensive and can house at least 3 members.
-  
+*Fun fact*: the most valuable recource that is traded 24/7 is water.
+
+Some materials preview:
+- Bedrock - used for ground settlements. Found only in deep caves.
+
+** Personal
+Medium to small, a citizen shoud not have a reason to pilot a big ship. Personal ships can also be used as a mini home as they come equiptted with the day to day utilities;
+
+** Racing
+Racing ships are expensive (small for speed and maneuverability) and require an additional license to fly in the few racing tracks that exist. The additional trainning is not intensive, but makes sure pilots know their flying when it comes to racing.
+
+** Touristic
+Turisctic companies make big money from this business. Tourists are willing to pay to visit the wonders of space so the ships used to move those around are luxurious and big. They are often times just like a mini hotel.
+
+** Military
+Military ships are not flying on citizen areas unless a war is happening. They often sit in garages because not many wars have happened recently (I will change this war thing later).
+
+** Police
+Police ships are scanning the habitated zones frequently and are highly equiptted with powerful gear. There are a few police departments and some of them are weaker due to less money.
+
 * Shape
 For ground/ground-space ships I like the way (present) current ships look, but a little more futuristic.
 A good reference for what I'm looking is this: [[https://www.artstation.com/artwork/ZGm5dx][art_station_link]] or [[~/media/pics/joan_pique_llorens_shuttle_2022-10-19.jpg][local_img_link]]
@@ -31,4 +42,12 @@ Space ships could have a bit of a more exotic shape, we're doing sci-fi after al
 In space they don't have to be a specific shape, tho they should make some sense.
 If ships will travel both in space and ground then they have to be aerodynamic.
 
+* Manufacturers
+
+* Obtaining a ship
+Obtaining a ship license requires intensive training for piloting and possible scenarios in wild space.
+The soon-to-be pilots have to pass a theory test and flying test to be able to get a pilot license.
+Buying a good lasting ship can hurt the waller a little, but it's managable with a decent job.
+
+*Related*
 [[./space_stations.org]]
