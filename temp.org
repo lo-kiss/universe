@@ -15,6 +15,3 @@ A dark river is the band caused by interstellar clouds and cosmic dust. Imagine 
 +An interstellar ship is used to travel to a new star system that does not have a Laser Gate. Only one such ship exists and it's owned by the biggest gouvernment power.+
 
 +It's used to travel to star systems that are good candidates for recources.+
-
-* Test 
-mogus
