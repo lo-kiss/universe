@@ -2,13 +2,6 @@
 #+date: <2022-10-19 Wed>
 #+language: en
 
-(requires thinking)
-Multiple types of space stations:
-    1. Citizen stations;
-    2. Research stations;
-    3. Military/Police stations;
-
-
 * Citizen stations
 These stations have artificial gravity to make the daily citizen life more enjoyable and less of a hassle.
 
