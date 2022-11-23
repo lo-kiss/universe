@@ -1,20 +1,14 @@
-#+title: Space_stations
+#+title: Space Stations
 #+date: <2022-10-19 Wed>
 #+language: en
 
-(requires thinking)
-Multiple types of space stations:
-    1. Citizen stations;
-    2. Research stations;
-    3. Military/Police stations;
+There aren't many space stations in <solar system name>, mostly due to the huge costs that each one requires and there isn't much need for space stations.
 
-
-* Citizen stations
-These stations have artificial gravity to make the daily citizen life more enjoyable and less of a hassle.
+*The primary habbitat for humans is still ground settlements on planets with breathable atmosphere and sustainable resources.*
 
 ** Exoplanets Simulations
-People like to be entertained and so citizen satations have different ways to entertain its citizens. One way is to simulate extreme exoplanets.
-There is a dedicated area in the arcade section for these kinds of simulations. The sims are quite advanced so they require advanced and expensive technology.
++People like to be entertained and so citizen satations have different ways to entertain its citizens. One way is to simulate extreme exoplanets.+
++There is a dedicated area in the arcade section for these kinds of simulations. The sims are quite advanced so they require advanced and expensive technology.+
 
 * Research stations
 These aren't really made for comfort and more for scientifical research and effectiveness.
@@ -23,10 +17,9 @@ These aren't really made for comfort and more for scientifical research and effe
 They are small space stations in the form of a cylinder and are only used for emergencies.
 It has two entrances/exits, one at the top and one at the bottom with a few floors each doing its thing.
 
-To save on costs and energy, the containers do not have artificial gravity (they're not designed to have artificial gravity anyway).
-
 * Parking
 /(requires additional thinking)/
-Since space is so vast parking is done by literally parking your ship outside of a space station. Due to laws space stations will always have an active police squad scanning the area so you can rest assured that your ship is in a safe place.
-Of course to protect the space station from potential hacking attacks, you have to be granted permission to park with your pilot license and the current ship license.
-If a ship is to be detected without a license the ship will be deactivated immedietly (using some kind of EMP maybe still gotta think) and checked.
+Space stations have a dedicated area for parking space ships. Each time a pilot wants to park on a space station they need to ask for docking permission.
+
+If the pilot cannot be identified, they will be asked to stop the engines and wait for a local scan.
+If the pilot fails to comply with the regulations, force will be used to deactivate the ship.

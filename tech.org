@@ -1,5 +1,6 @@
 #+title: Tech
 #+date: <2022-10-21 Fri>
+#+language: en
 
 * AR Glasses
 Main tech that almost everyone uses these days are the AR glasses.
@@ -9,5 +10,4 @@ AR Glasses have extensive support from other manufacturers making them good for 
 *For ships* the AR glasses are pretty much mandatory because ships don't offer screens on the main board.
 
 ** Out of the box features:
-- Display a clock in the corners;
--
+- Display a clock in the corners of your vision (it positioned in such position that you see it only if you look for it);
